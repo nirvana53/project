@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-.venv/
-venv/
-auth_config.json
-data/finance.db
-data/query_log.csv
